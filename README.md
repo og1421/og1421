@@ -1,5 +1,3 @@
-
-
 <h1 align="center">
     Hello there 👋 , my name is Orlando
 </h1>
@@ -9,12 +7,24 @@
 </h3>
 </br></br>
 
-<div align="center">  
+
+<img align= "right" height ="590em" src="https://raw.githubusercontent.com/gist/og1421/5f789c4079af65196565f76feb783240/raw/a158b16cab9f7427204a928607375928e462769f/githubcard.svg"/>
+
+- 🔥 Junior System Analist Developer and Junior iOS Engineer focused in be a better version every day and make impact on people lives
+
+- 🔭 I’m currently working at Bom Jesus Sementes
+
+
+- 💬 Ask me about Swift, Python, Artificial Inteligence
+
+
+<div align="left">  
   <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=og1421&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" alt="Orlando Moraes Martins GitHub Stats" /> 
   <img height="160rem" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=og1421&layout=compact&hide_border=true&title_color=87CEFA&text_color=87CEFA&bg_color=0d1117" />
 </div>
 
 </br>
+
 
 ## Social Media
 <div>  
@@ -29,6 +39,7 @@
 ![Swift](https://img.shields.io/badge/-Swift-0D1117?style=for-the-badge&logo=swift&logoColor=172B6&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
 ![Postgres](https://img.shields.io/badge/PostgreSQL-14354C?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp; 
+![SAP ABAP](https://img.shields.io/badge/ABAP-14354C?style=for-the-badge&logo=abapl&logoColor=white)&nbsp; 
 
 ### Tools:
 ![Xcode](https://img.shields.io/badge/-Xcode-0D1117?style=for-the-badge&logo=xcode&logoColor=007ACC&labelColor=0D1117)&nbsp;
