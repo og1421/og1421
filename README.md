@@ -10,7 +10,7 @@
 
 <img align= "right" height ="590em" src="https://raw.githubusercontent.com/gist/og1421/5f789c4079af65196565f76feb783240/raw/a158b16cab9f7427204a928607375928e462769f/githubcard.svg"/>
 
-- 🔥 Junior System Analist Developer and Junior iOS Engineer focused in be a better version every day and make impact on people lives
+- 🔥 Mid-level Software Engineer and Junior iOS Engineer focused in be a better version every day and make impact on people lives
 
 - 🔭 I’m currently working at Bom Jesus Sementes
 
