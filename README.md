@@ -15,7 +15,7 @@
 - 🔭 I’m currently working at Bom Jesus Sementes
 
 
-- 💬 Ask me about Swift, Python, Artificial Inteligence
+- 💬 Ask me about iOS & Android Development, Python, Artificial Inteligence
 
 
 <div align="left">  
@@ -37,12 +37,14 @@
 ### Main skills:
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Swift](https://img.shields.io/badge/-Swift-0D1117?style=for-the-badge&logo=swift&logoColor=172B6&labelColor=0D1117)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Android-0D1117?style=for-the-badge&logo=Android&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-14354C?style=for-the-badge&logo=Deep-Learning&logoColor=white)&nbsp; 
 ![Postgres](https://img.shields.io/badge/PostgreSQL-14354C?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp; 
-![SAP ABAP](https://img.shields.io/badge/ABAP-14354C?style=for-the-badge&logo=abapl&logoColor=white)&nbsp; 
 
 ### Tools:
 ![Xcode](https://img.shields.io/badge/-Xcode-0D1117?style=for-the-badge&logo=xcode&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Android Studio](https://img.shields.io/badge/-AndroidStudio-0D1117?style=for-the-badge&logo=AndroidStudio&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
